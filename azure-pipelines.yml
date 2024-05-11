@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:Habibapool
+  name: Habibapool
 
 variables:
   solution: '**/*.sln'
