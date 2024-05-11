@@ -28,3 +28,4 @@ D:\CS50\testapp\testapp\obj\Debug\net6.0\refint\testapp.dll
 D:\CS50\testapp\testapp\obj\Debug\net6.0\testapp.pdb
 D:\CS50\testapp\testapp\obj\Debug\net6.0\testapp.genruntimeconfig.cache
 D:\CS50\testapp\testapp\obj\Debug\net6.0\ref\testapp.dll
+D:\CS50\testapp\testapp\obj\Debug\net6.0\testapp.sourcelink.json
